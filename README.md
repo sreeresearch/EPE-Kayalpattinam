@@ -1,0 +1,1 @@
+The file consists of vizualixation for understanding the local and synoptic scale features for an extreme precipitation event. The dataset used for teh said purpose are from IMDAA and can be generaliabel to fplotting anomalies and area averaged plots for 
